@@ -1,5 +1,11 @@
 {
   "name": "quatuor",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "react-redux": "^5.0.7",
+    "react-redux-router": "^0.0.14"
+  },
+  "devDependencies": {
+    "redux-logger": "^3.0.6"
+  }
 }
