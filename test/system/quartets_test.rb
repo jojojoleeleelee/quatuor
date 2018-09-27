@@ -16,8 +16,6 @@ class QuartetsTest < ApplicationSystemTestCase
 
     fill_in "Country", with: @quartet.country
     fill_in "Image", with: @quartet.image
-    fill_in "Label", with: @quartet.label
-    fill_in "Style", with: @quartet.style
     fill_in "Title", with: @quartet.title
     fill_in "Uri", with: @quartet.uri
     fill_in "Year", with: @quartet.year
@@ -33,8 +31,6 @@ class QuartetsTest < ApplicationSystemTestCase
 
     fill_in "Country", with: @quartet.country
     fill_in "Image", with: @quartet.image
-    fill_in "Label", with: @quartet.label
-    fill_in "Style", with: @quartet.style
     fill_in "Title", with: @quartet.title
     fill_in "Uri", with: @quartet.uri
     fill_in "Year", with: @quartet.year

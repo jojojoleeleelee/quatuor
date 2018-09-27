@@ -69,6 +69,6 @@ class QuartetsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def quartet_params
-      params.require(:quartet).permit(:style, :country, :uri, :label, :image, :year, :title)
+      params.require(:quartet).permit(:country, :uri, :image, :year, :title)
     end
 end

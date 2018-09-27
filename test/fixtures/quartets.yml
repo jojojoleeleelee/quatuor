@@ -1,19 +1,15 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  style: MyString
   country: MyString
   uri: MyString
-  label: MyString
   image: MyString
   year: MyString
   title: MyString
 
 two:
-  style: MyString
   country: MyString
   uri: MyString
-  label: MyString
   image: MyString
   year: MyString
   title: MyString

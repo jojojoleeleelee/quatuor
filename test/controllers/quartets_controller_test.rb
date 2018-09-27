@@ -17,7 +17,7 @@ class QuartetsControllerTest < ActionDispatch::IntegrationTest
 
   test "should create quartet" do
     assert_difference('Quartet.count') do
-      post quartets_url, params: { quartet: { country: @quartet.country, image: @quartet.image, label: @quartet.label, style: @quartet.style, title: @quartet.title, uri: @quartet.uri, year: @quartet.year } }
+      post quartets_url, params: { quartet: { country: @quartet.country, image: @quartet.image, title: @quartet.title, uri: @quartet.uri, year: @quartet.year } }
     end
 
     assert_redirected_to quartet_url(Quartet.last)
@@ -34,7 +34,7 @@ class QuartetsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should update quartet" do
-    patch quartet_url(@quartet), params: { quartet: { country: @quartet.country, image: @quartet.image, label: @quartet.label, style: @quartet.style, title: @quartet.title, uri: @quartet.uri, year: @quartet.year } }
+    patch quartet_url(@quartet), params: { quartet: { country: @quartet.country, image: @quartet.image, title: @quartet.title, uri: @quartet.uri, year: @quartet.year } }
     assert_redirected_to quartet_url(@quartet)
   end
 
