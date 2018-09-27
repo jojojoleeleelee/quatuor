@@ -16,7 +16,7 @@ barcode: [
 "MAL 32738-1A",
 "MbL 32738-1A"
 ],
-uri: "/Elliott-Carter-Juilliard-Quartet-String-Quartet-No-3-String-Quartet-No-2/release/2626279",
+uri: "www.discogs.com/Elliott-Carter-Juilliard-Quartet-String-Quartet-No-3-String-Quartet-No-2/release/2626279",
 label: [
 "Columbia Masterworks",
 "Modern American Music Series"
@@ -49,7 +49,7 @@ barcode: [
 "MAL 32738-1A",
 "MbL 32738-1A"
 ],
-uri: "/Elliott-Carter-Juilliard-Quartet-String-Quartet-No-3-String-Quartet-No-2/master/346373",
+uri: "www.discogs.com/Elliott-Carter-Juilliard-Quartet-String-Quartet-No-3-String-Quartet-No-2/master/346373",
 community: {
 have: 101,
 want: 31
@@ -90,7 +90,7 @@ barcode: [
 "TEOSTO",
 "BMI"
 ],
-uri: "/Kronos-Quartet-Kronos-Quartet/master/234938",
+uri: "www.discogs.com/Kronos-Quartet-Kronos-Quartet/master/234938",
 community: {
 have: 612,
 want: 229
@@ -140,7 +140,7 @@ country: "US",
 barcode: [
 "R64-1670"
 ],
-uri: "/Bart%C3%B3k-The-Juilliard-String-Quartet-The-Six-String-Quartets/master/511017",
+uri: "www.discogs.com/Bart%C3%B3k-The-Juilliard-String-Quartet-The-Six-String-Quartets/master/511017",
 community: {
 have: 228,
 want: 81
@@ -174,7 +174,7 @@ country: "US",
 barcode: [
 "R64-1670"
 ],
-uri: "/Bart%C3%B3k-The-Juilliard-String-Quartet-The-Six-String-Quartets/release/2925432",
+uri: "www.discogs.com/Bart%C3%B3k-The-Juilliard-String-Quartet-The-Six-String-Quartets/release/2925432",
 community: {
 have: 116,
 want: 36
@@ -206,7 +206,7 @@ format: [
 ],
 country: "US",
 barcode: [ ],
-uri: "/John-Cage-Lejaren-Hiller-Ben-Johnston-HPSCHD-String-Quartet-No-2/release/772028",
+uri: "www.discogs.com/John-Cage-Lejaren-Hiller-Ben-Johnston-HPSCHD-String-Quartet-No-2/release/772028",
 community: {
 have: 210,
 want: 104
@@ -238,7 +238,7 @@ format: [
 ],
 country: "US",
 barcode: [ ],
-uri: "/Berg-Ramor-Quartet-Kohon-Quartet-Of-New-York-University-Lyric-Suite-For-String-Quartet-String-Quarte/master/323170",
+uri: "www.discogs.com/Berg-Ramor-Quartet-Kohon-Quartet-Of-New-York-University-Lyric-Suite-For-String-Quartet-String-Quarte/master/323170",
 community: {
 have: 88,
 want: 18
@@ -277,7 +277,7 @@ barcode: [
 "ZAL 5678",
 "ZAL 5679"
 ],
-uri: "/Borodin-ShostakovichBorodin-Quartet-String-Quartet-No-2-String-Quartet-No-8/release/4532508",
+uri: "www.discogs.com/Borodin-ShostakovichBorodin-Quartet-String-Quartet-No-2-String-Quartet-No-8/release/4532508",
 community: {
 have: 52,
 want: 13
@@ -317,7 +317,7 @@ barcode: [
 "H-71007-A",
 "H-71007-B"
 ],
-uri: "/Maurice-Ravel-Claude-Debussy-Stuyvesant-String-Quartet-String-Quartet-In-F-Major-String-Quartet-In-G/release/2485118",
+uri: "www.discogs.com/Maurice-Ravel-Claude-Debussy-Stuyvesant-String-Quartet-String-Quartet-In-F-Major-String-Quartet-In-G/release/2485118",
 community: {
 have: 97,
 want: 14
@@ -357,7 +357,7 @@ barcode: [
 "STX-189B @tGP EDP SP 0-1 SM1-1",
 "STX 190A SP @tGP 0-4 SM1-1 EDP M1SF1SM3"
 ],
-uri: "/Mimaro%C4%9Flu-Beaux-Arts-String-Quartet-Janis-Siegel-String-Quartet-No-4-Like-Theres-Tomorrow/release/813604",
+uri: "www.discogs.com/Mimaro%C4%9Flu-Beaux-Arts-String-Quartet-Janis-Siegel-String-Quartet-No-4-Like-Theres-Tomorrow/release/813604",
 community: {
 have: 41,
 want: 66
@@ -406,7 +406,7 @@ barcode: [
 "TEOSTO",
 "BMI"
 ],
-uri: "/Kronos-Quartet-Kronos-Quartet/release/2135743",
+uri: "www.discogs.com/Kronos-Quartet-Kronos-Quartet/release/2135743",
 community: {
 have: 232,
 want: 79
@@ -458,7 +458,7 @@ barcode: [
 "RS 9006 A-6-1-2-1",
 "RS 9006 B-4-1-1"
 ],
-uri: "/Ferneyhough-Harvey-Carter-Arditti-String-Quartet-String-Quartet-No-2-String-Quartet-No-2-String-Quar/master/733703",
+uri: "www.discogs.com/Ferneyhough-Harvey-Carter-Arditti-String-Quartet-String-Quartet-No-2-String-Quartet-No-2-String-Quar/master/733703",
 community: {
 have: 19,
 want: 56
@@ -503,7 +503,7 @@ barcode: [
 "H-71306-A-SP 1-1 STERLING",
 "H-71306-B-SP 1-1 STERLING RL"
 ],
-uri: "/Charles-Ives-The-Concord-String-Quartet-String-Quartets-Nos-1-2/release/1184080",
+uri: "www.discogs.com/Charles-Ives-The-Concord-String-Quartet-String-Quartets-Nos-1-2/release/1184080",
 community: {
 have: 122,
 want: 16
@@ -548,7 +548,7 @@ barcode: [
 "XLP50625-1A",
 "XXLP50626-1A"
 ],
-uri: "/Glenn-GouldSymphonia-Quartet-String-Quartet-Op-1/master/630620",
+uri: "www.discogs.com/Glenn-GouldSymphonia-Quartet-String-Quartet-Op-1/master/630620",
 community: {
 have: 21,
 want: 36
@@ -580,7 +580,7 @@ format: [
 ],
 country: "US",
 barcode: [ ],
-uri: "/Berg-Ramor-Quartet-Kohon-Quartet-Of-New-York-University-Lyric-Suite-For-String-Quartet-String-Quarte/release/1766067",
+uri: "www.discogs.com/Berg-Ramor-Quartet-Kohon-Quartet-Of-New-York-University-Lyric-Suite-For-String-Quartet-String-Quarte/release/1766067",
 community: {
 have: 52,
 want: 6
@@ -631,7 +631,7 @@ barcode: [
 "2YRM.1239",
 "2YRM.1240"
 ],
-uri: "/Dmitri-ShostakovitchBorodin-Quartet-String-Quartets-1-13/release/2566772",
+uri: "www.discogs.com/Dmitri-ShostakovitchBorodin-Quartet-String-Quartets-1-13/release/2566772",
 community: {
 have: 48,
 want: 61
@@ -672,7 +672,7 @@ barcode: [
 "XSM 139782",
 "XSM139783"
 ],
-uri: "/Leon-Kirchner-Beaux-Arts-Quartett-Henry-WeinbergComposers-Quartet-String-Quartet-No-3-For-Strings-El/release/5098810",
+uri: "www.discogs.com/Leon-Kirchner-Beaux-Arts-Quartett-Henry-WeinbergComposers-Quartet-String-Quartet-No-3-For-Strings-El/release/5098810",
 community: {
 have: 41,
 want: 19
@@ -712,7 +712,7 @@ barcode: [
 "E 327/H B",
 "E 328/P A1A"
 ],
-uri: "/Jan%C3%A1%C4%8Dek-Jan%C3%A1%C4%8Dek-Quartet-String-Quartets-Nos-1-And-2/master/419723",
+uri: "www.discogs.com/Jan%C3%A1%C4%8Dek-Jan%C3%A1%C4%8Dek-Quartet-String-Quartets-Nos-1-And-2/master/419723",
 community: {
 have: 193,
 want: 31
@@ -749,7 +749,7 @@ barcode: [
 "H-71306-A-SP 1-1 STERLING",
 "H-71306-B-SP 1-1 STERLING RL"
 ],
-uri: "/Charles-Ives-The-Concord-String-Quartet-String-Quartets-Nos-1-2/master/643734",
+uri: "www.discogs.com/Charles-Ives-The-Concord-String-Quartet-String-Quartets-Nos-1-2/master/643734",
 community: {
 have: 126,
 want: 20
@@ -793,7 +793,7 @@ country: "Czechoslovakia",
 barcode: [
 "68 2"
 ],
-uri: "/Dvo%C5%99%C3%A1k-Prague-Quartet-String-Quartet-In-F-Major-American-String-Quartet-In-A-Flat-Major/master/759589",
+uri: "www.discogs.com/Dvo%C5%99%C3%A1k-Prague-Quartet-String-Quartet-In-F-Major-American-String-Quartet-In-A-Flat-Major/master/759589",
 community: {
 have: 78,
 want: 0
@@ -827,7 +827,7 @@ barcode: [
 "XSM 139782",
 "XSM139783"
 ],
-uri: "/Leon-Kirchner-Beaux-Arts-Quartett-Henry-WeinbergComposers-Quartet-String-Quartet-No-3-For-Strings-El/master/650782",
+uri: "www.discogs.com/Leon-Kirchner-Beaux-Arts-Quartett-Henry-WeinbergComposers-Quartet-String-Quartet-No-3-For-Strings-El/master/650782",
 community: {
 have: 46,
 want: 28
@@ -864,7 +864,7 @@ barcode: [
 "QAL 32738",
 "QBL 32738"
 ],
-uri: "/Elliott-Carter-Juilliard-Quartet-String-Quartet-No-3-String-Quartet-No-2/release/2910724",
+uri: "www.discogs.com/Elliott-Carter-Juilliard-Quartet-String-Quartet-No-3-String-Quartet-No-2/release/2910724",
 community: {
 have: 27,
 want: 9
@@ -907,7 +907,7 @@ barcode: [
 "K2RY-4339",
 "K2RY-4340"
 ],
-uri: "/Juilliard-String-Quartet-Debussy-Ravel-Quartet-In-G-Minor-Quartet-In-F/master/586951",
+uri: "www.discogs.com/Juilliard-String-Quartet-Debussy-Ravel-Quartet-In-G-Minor-Quartet-In-F/master/586951",
 community: {
 have: 95,
 want: 39
@@ -954,7 +954,7 @@ barcode: [
 "Teosto",
 "WE 381"
 ],
-uri: "/Kronos-Quartet-Kronos-Quartet/release/2008417",
+uri: "www.discogs.com/Kronos-Quartet-Kronos-Quartet/release/2008417",
 community: {
 have: 119,
 want: 48
@@ -999,7 +999,7 @@ barcode: [
 "RS 9006 A-6-1-2-1",
 "RS 9006 B-4-1-1"
 ],
-uri: "/Ferneyhough-Harvey-Carter-Arditti-String-Quartet-String-Quartet-No-2-String-Quartet-No-2-String-Quar/release/6092443",
+uri: "www.discogs.com/Ferneyhough-Harvey-Carter-Arditti-String-Quartet-String-Quartet-No-2-String-Quartet-No-2-String-Quar/release/6092443",
 community: {
 have: 10,
 want: 19
@@ -1043,7 +1043,7 @@ barcode: [
 "BL 30650",
 "70-752138, 74-752139"
 ],
-uri: "/Debussy-Ravel-The-Juilliard-Quartet-String-Quartets/release/2944877",
+uri: "www.discogs.com/Debussy-Ravel-The-Juilliard-Quartet-String-Quartets/release/2944877",
 community: {
 have: 76,
 want: 13
@@ -1095,7 +1095,7 @@ barcode: [
 "2YRM.1239",
 "2YRM.1240"
 ],
-uri: "/Dmitri-ShostakovitchBorodin-Quartet-String-Quartets-1-13/master/590344",
+uri: "www.discogs.com/Dmitri-ShostakovitchBorodin-Quartet-String-Quartets-1-13/master/590344",
 community: {
 have: 49,
 want: 69
@@ -1151,7 +1151,7 @@ barcode: [
 "XXSM 78830 3B",
 "XXSM 78831-1K"
 ],
-uri: "/Bart%C3%B3k-The-Juilliard-String-Quartet-The-Six-String-Quartets/release/5241859",
+uri: "www.discogs.com/Bart%C3%B3k-The-Juilliard-String-Quartet-The-Six-String-Quartets/release/5241859",
 community: {
 have: 31,
 want: 12
@@ -1186,7 +1186,7 @@ barcode: [
 "Gema",
 "79111-2"
 ],
-uri: "/Kronos-Quartet-Kronos-Quartet/release/423431",
+uri: "www.discogs.com/Kronos-Quartet-Kronos-Quartet/release/423431",
 community: {
 have: 74,
 want: 12
@@ -1233,7 +1233,7 @@ barcode: [
 "SMX 2634 II. E0 2",
 "BIEM"
 ],
-uri: "/Bart%C3%B3k-B%C3%A9la-T%C3%A1trai-Quartet-String-Quartets-Nos-1-6/release/4891591",
+uri: "www.discogs.com/Bart%C3%B3k-B%C3%A9la-T%C3%A1trai-Quartet-String-Quartets-Nos-1-6/release/4891591",
 community: {
 have: 57,
 want: 13
@@ -1268,7 +1268,7 @@ format: [
 ],
 country: "UK",
 barcode: [ ],
-uri: "/Britten-Allegri-String-Quartet-String-Quartets/master/622349",
+uri: "www.discogs.com/Britten-Allegri-String-Quartet-String-Quartets/master/622349",
 community: {
 have: 49,
 want: 11
@@ -1310,7 +1310,7 @@ barcode: [
 "BL 30650",
 "70-752138, 74-752139"
 ],
-uri: "/Debussy-Ravel-The-Juilliard-Quartet-String-Quartets/master/396667",
+uri: "www.discogs.com/Debussy-Ravel-The-Juilliard-Quartet-String-Quartets/master/396667",
 community: {
 have: 87,
 want: 19
@@ -1348,7 +1348,7 @@ barcode: [
 "XXLP-35571-2E",
 "R56-1009"
 ],
-uri: "/Elliott-Carter-Walden-Quartet-Of-The-University-Of-Illinois-The-String-Quartet/release/5241524",
+uri: "www.discogs.com/Elliott-Carter-Walden-Quartet-Of-The-University-Of-Illinois-The-String-Quartet/release/5241524",
 community: {
 have: 20,
 want: 12
@@ -1384,7 +1384,7 @@ barcode: [
 "XLP50625-1A",
 "XXLP50626-1A"
 ],
-uri: "/Glenn-GouldSymphonia-Quartet-String-Quartet-Op-1/release/5190982",
+uri: "www.discogs.com/Glenn-GouldSymphonia-Quartet-String-Quartet-Op-1/release/5190982",
 community: {
 have: 9,
 want: 14
@@ -1406,7 +1406,7 @@ id: 5190982
 {
 thumb: "",
 title: "Not On Label (The Vibracathedral String Quartet Self-released)",
-uri: "/label/149061-Not-On-Label-The-Vibracathedral-String-Quartet-Self-released",
+uri: "www.discogs.com/label/149061-Not-On-Label-The-Vibracathedral-String-Quartet-Self-released",
 cover_image: "https://img.discogs.com/images/spacer.gif",
 resource_url: "https://api.discogs.com/labels/149061",
 type: "label",
@@ -1438,7 +1438,7 @@ barcode: [
 "SMX 2634 II. E0 2",
 "BIEM"
 ],
-uri: "/Bart%C3%B3k-B%C3%A9la-T%C3%A1trai-Quartet-String-Quartets-Nos-1-6/master/801741",
+uri: "www.discogs.com/Bart%C3%B3k-B%C3%A9la-T%C3%A1trai-Quartet-String-Quartets-Nos-1-6/master/801741",
 community: {
 have: 66,
 want: 19
@@ -1481,7 +1481,7 @@ barcode: [
 "K2RY-4339",
 "K2RY-4340"
 ],
-uri: "/Juilliard-String-Quartet-Debussy-Ravel-Quartet-In-G-Minor-Quartet-In-F/release/4873901",
+uri: "www.discogs.com/Juilliard-String-Quartet-Debussy-Ravel-Quartet-In-G-Minor-Quartet-In-F/release/4873901",
 community: {
 have: 47,
 want: 23
@@ -1523,7 +1523,7 @@ barcode: [
 "VM 2240/A A",
 "G"
 ],
-uri: "/Prokofiev-Shostakovich-Smetana-Quartet-String-Quartet-No-1-String-Quartet-No-3/master/890944",
+uri: "www.discogs.com/Prokofiev-Shostakovich-Smetana-Quartet-String-Quartet-No-1-String-Quartet-No-3/master/890944",
 community: {
 have: 24,
 want: 14
@@ -1572,7 +1572,7 @@ barcode: [
 "ZRG-3892-2G U 1",
 "🅢"
 ],
-uri: "/Haydn-Aeolian-String-Quartet-String-Quartets-Op-71-74/release/5918848",
+uri: "www.discogs.com/Haydn-Aeolian-String-Quartet-String-Quartets-Op-71-74/release/5918848",
 community: {
 have: 40,
 want: 4
@@ -1605,7 +1605,7 @@ format: [
 ],
 country: "UK",
 barcode: [ ],
-uri: "/Britten-Allegri-String-Quartet-String-Quartets/release/1812291",
+uri: "www.discogs.com/Britten-Allegri-String-Quartet-String-Quartets/release/1812291",
 community: {
 have: 22,
 want: 7
@@ -1648,7 +1648,7 @@ barcode: [
 "VM 2240/A A",
 "G"
 ],
-uri: "/Prokofiev-Shostakovich-Smetana-Quartet-String-Quartet-No-1-String-Quartet-No-3/release/4760617",
+uri: "www.discogs.com/Prokofiev-Shostakovich-Smetana-Quartet-String-Quartet-No-1-String-Quartet-No-3/release/4760617",
 community: {
 have: 15,
 want: 9
@@ -1685,7 +1685,7 @@ barcode: [
 "ZAL-5678-1E U 1",
 "ZAL-5679-1E U 1"
 ],
-uri: "/The-Borodin-Quartet-Borodin-Shostakovich-Quartet-No-2-Quartet-No-8/release/4163529",
+uri: "www.discogs.com/The-Borodin-Quartet-Borodin-Shostakovich-Quartet-No-2-Quartet-No-8/release/4163529",
 community: {
 have: 19,
 want: 50
@@ -1720,7 +1720,7 @@ format: [
 ],
 country: "US",
 barcode: [ ],
-uri: "/Bart%C3%B3k-The-Juilliard-String-Quartet-The-Six-String-Quartets/release/8133156",
+uri: "www.discogs.com/Bart%C3%B3k-The-Juilliard-String-Quartet-The-Six-String-Quartets/release/8133156",
 community: {
 have: 30,
 want: 7
@@ -1755,7 +1755,7 @@ barcode: [
 "FLP 2951",
 "FLP 2952"
 ],
-uri: "/Alban-Berg-Juilliard-String-Quartet-The-Lyric-Suite-For-String-Quartet/release/5210098",
+uri: "www.discogs.com/Alban-Berg-Juilliard-String-Quartet-The-Lyric-Suite-For-String-Quartet/release/5210098",
 community: {
 have: 6,
 want: 15
@@ -1788,7 +1788,7 @@ barcode: [
 "XLP 38379",
 "XLP 38380"
 ],
-uri: "/Budapest-String-Quartet-Budapest-Quartet-Encores/release/5193826",
+uri: "www.discogs.com/Budapest-String-Quartet-Budapest-Quartet-Encores/release/5193826",
 community: {
 have: 41,
 want: 4
@@ -1823,7 +1823,7 @@ barcode: [
 "HDNP.57",
 "ZRG-4080-1M I 1"
 ],
-uri: "/Joseph-Haydn-Aeolian-String-Quartet-String-Quartets-Op-76-77-103/release/5918906",
+uri: "www.discogs.com/Joseph-Haydn-Aeolian-String-Quartet-String-Quartets-Op-76-77-103/release/5918906",
 community: {
 have: 40,
 want: 6
@@ -1865,7 +1865,7 @@ barcode: [
 "IFPI AEW39",
 "LC 19813"
 ],
-uri: "/Jethro-Tull-The-String-Quartets/master/1154694",
+uri: "www.discogs.com/Jethro-Tull-The-String-Quartets/master/1154694",
 community: {
 have: 334,
 want: 59
@@ -1902,7 +1902,7 @@ format: [
 ],
 country: "US",
 barcode: [ ],
-uri: "/Berg-Ramor-Quartet-Kohon-Quartet-Of-New-York-University-Lyric-Suite-For-String-Quartet-String-Quarte/release/2795512",
+uri: "www.discogs.com/Berg-Ramor-Quartet-Kohon-Quartet-Of-New-York-University-Lyric-Suite-For-String-Quartet-String-Quarte/release/2795512",
 community: {
 have: 25,
 want: 4
@@ -1940,7 +1940,7 @@ barcode: [
 "{S.376B}",
 "M.C.P.S."
 ],
-uri: "/Charles-IvesKohon-String-Quartet-Of-New-York-University-String-Quartet-No-1-1896-A-Revival-Service-S/release/5729923",
+uri: "www.discogs.com/Charles-IvesKohon-String-Quartet-Of-New-York-University-String-Quartet-No-1-1896-A-Revival-Service-S/release/5729923",
 community: {
 have: 23,
 want: 2
@@ -1984,7 +1984,7 @@ barcode: [
 "E 327/H B",
 "E 328/P A1A"
 ],
-uri: "/Jan%C3%A1%C4%8Dek-Jan%C3%A1%C4%8Dek-Quartet-String-Quartets-Nos-1-And-2/release/3480605",
+uri: "www.discogs.com/Jan%C3%A1%C4%8Dek-Jan%C3%A1%C4%8Dek-Quartet-String-Quartets-Nos-1-And-2/release/3480605",
 community: {
 have: 48,
 want: 10
