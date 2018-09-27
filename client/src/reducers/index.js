@@ -1,6 +1,6 @@
 import { combineReducers } from 'redux';
-import repertoireReducer from './repertoireReducer';
+import quartetReducer from './quartetReducer';
 
 export default combineReducers({
-  repertoire: repertoireReducer
+  quartet: quartetReducer
 })
