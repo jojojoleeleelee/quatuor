@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Style:</strong>
+  <%= @quartet.style %>
+</p>
+
+<p>
+  <strong>Country:</strong>
+  <%= @quartet.country %>
+</p>
+
+<p>
+  <strong>Uri:</strong>
+  <%= @quartet.uri %>
+</p>
+
+<p>
+  <strong>Label:</strong>
+  <%= @quartet.label %>
+</p>
+
+<p>
+  <strong>Image:</strong>
+  <%= @quartet.image %>
+</p>
+
+<p>
+  <strong>Year:</strong>
+  <%= @quartet.year %>
+</p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @quartet.title %>
+</p>
+
+<%= link_to 'Edit', edit_quartet_path(@quartet) %> |
+<%= link_to 'Back', quartets_path %>

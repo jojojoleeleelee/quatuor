@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Quartets</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Style</th>
+      <th>Country</th>
+      <th>Uri</th>
+      <th>Label</th>
+      <th>Image</th>
+      <th>Year</th>
+      <th>Title</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @quartets.each do |quartet| %>
+      <tr>
+        <td><%= quartet.style %></td>
+        <td><%= quartet.country %></td>
+        <td><%= quartet.uri %></td>
+        <td><%= quartet.label %></td>
+        <td><%= quartet.image %></td>
+        <td><%= quartet.year %></td>
+        <td><%= quartet.title %></td>
+        <td><%= link_to 'Show', quartet %></td>
+        <td><%= link_to 'Edit', edit_quartet_path(quartet) %></td>
+        <td><%= link_to 'Destroy', quartet, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Quartet', new_quartet_path %>

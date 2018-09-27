@@ -1,0 +1,2 @@
+class Quartet < ApplicationRecord
+end
