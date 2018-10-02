@@ -12,3 +12,9 @@ export const loadQuartets = () => {
     .then(quartets => dispatch(getQuartets(quartets)))
   }
 }
+
+export function unloadQuartets() {
+  return (dispatch) => {
+    dispatch( { type: "LOAD_ALL_QUARTETS", payload: [] })
+  }
+}

@@ -1,22 +1,35 @@
 import React from 'react'
 import { connect } from 'react-redux';
+import { bindActionCreators } from 'redux'
 
-const QuartetCard = (quartet) => {
-  return (
-    <div>
-      <ul>
-      <li>{quartet.quartet.text}</li>
-      <li>{quartet.quartet.book}</li>
-      <li>{quartet.quartet.chapter}</li>
-      </ul>
-    </div>
-  )
-}
+import { QuartetText } from '../components/QuartetText'
+import { QuartetImage } from '../components/QuartetImage'
 
-const mapStateToProps = state => {
-  return {
-    text: state.text
+
+class QuartetCard extends React.Component {
+  render() {
+    const quartetCards = this.props.quartets.map((quartet, i) => {
+       return <QuartetText key={i} quartet={quartet} />
+     })
+
+    return(
+      <div>
+       {quartetCards}
+      </div>
+    )
   }
 }
 
-export default connect(mapStateToProps)(QuartetCard)
+const mapStateToProps = (state) => {
+  return {
+    quartets: state.quartets
+  }
+}
+
+const mapDispatchToProps = (dispatch) => {
+  return bindActionCreators({
+
+  }, dispatch)
+}
+
+export default connect(mapStateToProps, mapDispatchToProps)(QuartetCard)
