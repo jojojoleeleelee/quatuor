@@ -1,18 +1,12 @@
 import React from 'react';
 import { connect } from 'react-redux'
-import { bindActionCreators } from 'redux'
 
 import { loadQuartets } from '../actions/quartets'
-import { unloadQuartets } from '../actions/quartets'
 import QuartetCard from './QuartetCard'
 
 class QuartetIndex extends React.Component {
   componentDidMount() {
     this.props.loadQuartets()
-  }
-
-  componentWillUnmount() {
-    this.props.unloadQuartets()
   }
 
   render() {
@@ -22,7 +16,8 @@ class QuartetIndex extends React.Component {
           <h4>Browse Quartets</h4>
           <hr />
         </div>
-  
+        { this.props.quartets !== [] ? this.props.quartets.map(q =>
+        <QuartetCard key={q.id} index={q.id} quartet={q} /> ) : null}
       </div>
     )
   }
@@ -35,11 +30,6 @@ const mapStateToProps = (state) => {
   }
 }
 
-const mapDispatchToProps = (dispatch) => {
-  return bindActionCreators({
-    loadQuartets: loadQuartets,
-    unloadQuartets: unloadQuartets
-  }, dispatch)
-}
-
-export default connect(mapStateToProps, mapDispatchToProps)(QuartetIndex)
+export default connect(mapStateToProps, {
+  loadQuartets
+})(QuartetIndex)

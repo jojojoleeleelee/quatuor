@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import quartetReducer from './quartetReducer';
+import quartets from './quartets';
 
 const rootReducer = combineReducers({
-  quartetReducer: quartetReducer
+  quartets: quartets
 })
 
 export default rootReducer;

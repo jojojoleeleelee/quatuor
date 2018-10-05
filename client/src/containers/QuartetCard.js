@@ -1,35 +1,33 @@
 import React from 'react'
 import { connect } from 'react-redux';
-import { bindActionCreators } from 'redux'
+import { Link } from 'react-router-dom'
 
-import { QuartetText } from '../components/QuartetText'
-import { QuartetImage } from '../components/QuartetImage'
+const QuartetCard = (quartet) => {
+  const quartet_url = `quartets/${quartet.quartet.id}`
+  const learn_more = `${quartet.quartet.uri}`
 
+  console.log(learn_more)
 
-class QuartetCard extends React.Component {
-  render() {
-    const quartetCards = this.props.quartets.map((quartet, i) => {
-       return <QuartetText key={i} quartet={quartet} />
-     })
+  return (
+    <Link to={quartet_url}>
+      <div className="card">
+        <div className="card card-panel yellow">
+          <div className="card-content white-text center-align">
+            <h4>{quartet.quartet.title}</h4>
+            <br />
+            <img className="responsive-img" src={quartet.quartet.image} alt="Smiley face" height="390" width="390" />
+            <h5>{quartet.quartet.year} - {quartet.quartet.country}</h5>
 
-    return(
-      <div>
-       {quartetCards}
+          </div>
+        </div>
       </div>
-    )
-  }
+    </Link>
+  )
 }
 
-const mapStateToProps = (state) => {
+const mapStateToProps = state => {
   return {
-    quartets: state.quartets
+    text: state.text
   }
 }
-
-const mapDispatchToProps = (dispatch) => {
-  return bindActionCreators({
-
-  }, dispatch)
-}
-
-export default connect(mapStateToProps, mapDispatchToProps)(QuartetCard)
+export default connect(mapStateToProps)(QuartetCard)
