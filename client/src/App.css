@@ -21,3 +21,13 @@
 .App-intro {
   font-size: large;
 }
+
+.blink_me {
+  animation: blinker 3s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}

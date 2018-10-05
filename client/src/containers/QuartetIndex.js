@@ -22,7 +22,7 @@ class QuartetIndex extends React.Component {
           <h4>Browse Quartets</h4>
           <hr />
         </div>
-        {this.props.quartets !== [] ? <QuartetCard quartet={this.props.quartets}/> : null}
+  
       </div>
     )
   }
