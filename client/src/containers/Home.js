@@ -9,7 +9,7 @@ const Home = () => {
     <div className="center-align">
       <div className="welcome">
 
-        <Link to="/quartet">
+        <Link to="/quartets">
         <span>
             <br /><br />
             <br /><br />

@@ -8,8 +8,8 @@ export const NavBar = () => {
       <div className="nav-wrapper">
         <ul id="nav-mobile" className="left hide-on-med-and-down">
           <li><Link to="/" className="brand-logo center">QUATUOR</Link></li>
-          <li><Link to="/quartet" exact="true">All Quartets</Link></li>
-          <li><Link to="/quartet/new" exact="true">Add New</Link></li>
+          <li><Link to="/quartets" exact="true">All Quartets</Link></li>
+          <li><Link to="/quartets/new" exact="true">Add New</Link></li>
         </ul>
       </div>
     </nav>

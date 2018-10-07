@@ -4,9 +4,6 @@ import { Link } from 'react-router-dom'
 
 const QuartetCard = (quartet) => {
   const quartet_url = `quartets/${quartet.quartet.id}`
-  const learn_more = `${quartet.quartet.uri}`
-
-  console.log(learn_more)
 
   return (
     <Link to={quartet_url}>
