@@ -10,7 +10,7 @@ const Home = () => {
       <div className="welcome">
 
         <Link to="/quartets">
-        <span>
+        <span className='grey-text text-darken-2'>
             <br /><br />
             <br /><br />
             <img src={logo} alt="quatuor-logo" className="blink_me" height="300" /><br />

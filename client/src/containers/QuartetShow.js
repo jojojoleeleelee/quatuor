@@ -12,7 +12,7 @@ class QuartetShow extends React.Component {
   render() {
     return (
       <div>
-  
+        {this.props.quartet !== '' ? <Quartet key={this.props.quartet.id} index={this.props.quartet.id} quartet={this.props.quartet} /> : null}
       </div>
     )
   }

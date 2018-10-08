@@ -12,9 +12,10 @@ class QuartetIndex extends React.Component {
   render() {
     return (
       <div className="row">
-        <div className="center-align">
+        <div className="center-align grey-text">
+          <br />
           <h4>Browse Quartets</h4>
-          <hr />
+          <br />  
         </div>
         { this.props.quartets !== [] ? this.props.quartets.map(q =>
         <QuartetCard key={q.id} index={q.id} quartet={q} /> ) : null}
